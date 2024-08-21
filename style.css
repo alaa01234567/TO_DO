@@ -1,0 +1,32 @@
+h1{
+    color: rgb(235, 72, 181);
+    padding-top: 10%;
+    padding-bottom: 3%;
+    margin-inline-start: 45%;
+
+}
+
+#taskInput{
+Width: 600px;
+Height: 50px;
+margin-inline-start: 30%;
+border-radius: 20px;
+font-size: 20px;
+color: rgb(233, 183, 214);
+border-color: rgb(240, 177, 219);
+}
+button{
+border-radius: 10px;
+width: 100px;
+height: 50px;
+font-size: 25px;
+background: #ee4895;
+color: white;
+border-color: #e92878;
+}
+#taskList{
+color: #ee4895;
+margin-inline-start: 40%;
+font-size: 40px;
+}
+
